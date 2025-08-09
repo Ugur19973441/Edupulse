@@ -1,2 +1,0 @@
-# Edupulse
-Student Following System
